@@ -1,4 +1,6 @@
-# Bookstore Management
+# Bookstore Management — College Project
+
+> College coursework project, preserved as a record of learning and academic development.
 
 A Windows desktop application for managing a bookstore's books, customers, and sales. Built with C#, Windows Forms, and MySQL for the **Hands On Work III** academic project (2021). The application interface is in Portuguese.
 
@@ -28,7 +30,7 @@ A Windows desktop application for managing a bookstore's books, customers, and s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/EmanuelCChagas/bookstore-management-winforms.git
+   git clone https://github.com/EmanuelCChagas/college-bookstore-management-winforms.git
    ```
 
 2. On Windows, install Visual Studio with .NET desktop development support and the .NET Framework 4.7.2 targeting pack.
